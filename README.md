@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Passionate **Full-Stack Developer** with **3+ years** of experience building dynamic, high-performance web applications. I specialize in creating scalable solutions using modern frameworks and technologies, with a strong focus on clean, maintainable code and exceptional user experiences.
+Passionate **Full-Stack Developer** with **4+ years** of experience building dynamic, high-performance web applications. I specialize in creating scalable solutions using modern frameworks and technologies, with a strong focus on clean, maintainable code and exceptional user experiences.
 
 - 🔭 Currently working at **FIDSOR, Islamabad**
 - 🌱 Continuously learning and exploring new technologies
