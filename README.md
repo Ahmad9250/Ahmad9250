@@ -212,14 +212,14 @@ gantt
 <td width="33%">
 <div align="center">
 <img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="60"/>
-<h3>3+</h3>
+<h3>4+</h3>
 <p>Years Experience</p>
 </div>
 </td>
 <td width="33%">
 <div align="center">
 <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60"/>
-<h3>3</h3>
+<h3>4</h3>
 <p>Certifications</p>
 </div>
 </td>
@@ -239,6 +239,7 @@ gantt
 🔬 **Final Year Project:** IMU Based Namaz Khushoo Tracker
 
 ### 📜 Professional Certifications
+- ✅ **AWS for Beginners** - Introduction to cloud computing, AWS services (EC2, S3), and basic deployment practices
 - ✅ **Data Visualization with Power BI** - Advanced analytics and reporting
 - ✅ **Data Visualization in Tableau** - Interactive dashboard creation
 - ✅ **Python for Data Science** - Data analysis and machine learning fundamentals
