@@ -248,10 +248,10 @@ gantt
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ahmad-jawad](https://www.linkedin.com/in/ahmad-jawad-fullstackdeveloper/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-jawad-fullstackdeveloper/)
 [![Email](https://img.shields.io/badge/Email-ahmadchohan31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadchohan31@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+923075646406-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923075646406)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ahmadjawad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmad9250.github.io/)
 
 </div>
 
